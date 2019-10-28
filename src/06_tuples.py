@@ -42,7 +42,7 @@ def print_tuple(t):
     # if len(l) == 1:
     #     print(l)
     for i in t:
-        print(t)
+        print(i)
 
 t = (1, 2, 5, 7, 99)
 print_tuple(t)  # Prints 1 2 5 7 99, one per line
