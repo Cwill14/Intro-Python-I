@@ -26,7 +26,7 @@ print("---")
 
 a = ["foo", "bar", "baz"]
 
-y = [ i.title() for i in a ]
+y = [ i.upper() for i in a ]
 
 print(y)
 print("---")
